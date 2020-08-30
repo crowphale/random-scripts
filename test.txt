@@ -2,3 +2,5 @@ Just testing GPG signing.
 
 more, now with git config
 
+change the email
+
