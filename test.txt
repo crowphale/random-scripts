@@ -1,3 +1,4 @@
 Just testing GPG signing.
 
-more
+more, now with git config
+
